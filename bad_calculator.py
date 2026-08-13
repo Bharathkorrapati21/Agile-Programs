@@ -19,6 +19,3 @@ if __name__=="__main__":
     print("10-5=",calc.calculate(10,5,"subtract"))
     print("10*5=",calc.calculate(10,5,"multiply"))
     print("10/5=",calc.calculate(10,5,"divide"))
-
-
-
